@@ -62,7 +62,7 @@ section.imagem{
     box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.548); /*sombra para dentro*/
     background-color: rgb(0, 0, 0);
     color: white;
-    background-position: center center;
+    background-position: right center;
     background-size: cover;
     background-attachment: fixed; /*deu o efeito de rolagem*/
 }
